@@ -163,7 +163,7 @@ input[type="color"]:focus,
     border-radius: 100%;
     width: 50px;
     height: 50px;
-    background-color: #7e57c2;
+    background-color: #5CB85C;
     background-image: url('../img/plus.svg');
     background-size: 40%;
     background-position: 15px;
@@ -177,7 +177,7 @@ input[type="color"]:focus,
     transition: .5s;
 }
 .material:hover{
-    background-color: #A886E4;
+    background-color: #83C183;
     box-shadow: 0px 1px 6px #949494;
 }
 .material-grey {
@@ -185,7 +185,7 @@ input[type="color"]:focus,
     border-radius: 100%;
     width: 30px;
     height: 30px;
-    background-color: grey;
+    background-color: #F0AD4E;
     padding-right: 0px;
     padding-top: 0px;
     background-position: 6px 10px;
@@ -200,7 +200,7 @@ input[type="color"]:focus,
     margin-top: -30px;
 }
 .material-grey:hover{
-    background-color: #989898;
+    background-color: #E4B168;
     box-shadow: 0px 1px 6px #949494;
 }
 .material-grey-plus {
@@ -208,7 +208,7 @@ input[type="color"]:focus,
     border-radius: 100%;
     width: 30px;
     height: 30px;
-    background-color: grey;
+    background-color: #F0AD4E;
     padding-right: 0px;
     padding-top: 0px;
     background-position: 8px 7px;
@@ -223,7 +223,7 @@ input[type="color"]:focus,
     margin-top: -25px;
 }
 .material-grey-plus:hover{
-    background-color: #989898;
+    background-color: #E4B168;
     box-shadow: 0px 1px 6px #949494;
 }
 .weighter-font{
