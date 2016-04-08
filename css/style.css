@@ -164,7 +164,7 @@ input[type="color"]:focus,
     width: 50px;
     height: 50px;
     background-color: #7e57c2;
-    background-image: url('../../psd/plus.svg');
+    background-image: url('../img/plus.svg');
     background-size: 40%;
     background-position: 15px;
     background-repeat: no-repeat;
@@ -192,7 +192,7 @@ input[type="color"]:focus,
     padding-bottom: 0px;
     background-size: 60%;
     background-repeat: no-repeat;
-    background-image: url('../../psd/minus.svg');
+    background-image: url('../img/minus.svg');
     transition: .5s;
     margin-bottom: -15px;
     margin-left: 100%;
@@ -215,7 +215,7 @@ input[type="color"]:focus,
     padding-bottom: 0px;
     background-size: 50%;
     background-repeat: no-repeat;
-    background-image: url('../../psd/plus.svg');
+    background-image: url('../img/plus.svg');
     transition: .5s;
     margin-bottom: 10px;
     margin-left: 100%;
