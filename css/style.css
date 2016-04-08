@@ -1,3 +1,6 @@
+body{
+    background-color:#E4F1E9;
+}
 textarea:focus,
 input[type="text"]:focus,
 input[type="password"]:focus,
