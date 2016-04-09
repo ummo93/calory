@@ -242,3 +242,19 @@ input[type="color"]:focus,
 button.close{
       padding: 10px;
 }
+@media (max-width: 767px) {
+    
+    .col-md-4-my {
+        float:none;
+        margin-left: 17px;
+    }
+    .panel-default > .panel-heading {
+        height: 90px;
+    }
+    #mainform{
+        margin-bottom:40px;
+    }
+    .center-block {
+        margin-bottom: 15px;
+    }
+}
